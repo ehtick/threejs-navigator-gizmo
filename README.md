@@ -5,8 +5,11 @@
 
 A 3D navigator gizmo addon for ThreeJS. It has features of both `TrackballControls` and `ViewHelper`. It does not lock the camera to the direction vertical to up when the camera is moved to the direction parallel to up.
 
-<img src="https://img2.imgtp.com/2024/04/29/4isQzQNQ.png" width=160>
-<img src="https://img2.imgtp.com/2024/04/29/XWMpJlbF.png" width=160>
+<div style="display: flex;">
+	<img src="screenshot-1.png" width=160>
+	<img src="screenshot-2.png" width=160>
+</div>
+
 
 # Install
 
